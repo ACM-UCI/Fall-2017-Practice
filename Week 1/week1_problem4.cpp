@@ -24,7 +24,7 @@ public:
         
         // Find how much water remains on top of each column and them add up
         int ans = 0;
-        for(int i=1;i<height.size()-1;i++){
+        for(int i = 1;i < height.size()-1; i++){
             int num = min( l[i-1], r[i+1] ) - height[i]; 
             if(num > 0)
                 ans += num; 
