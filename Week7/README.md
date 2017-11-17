@@ -18,23 +18,19 @@ Come up with recurrence relation
 Specify the base cases
 
 
-Problem 1  
-Range Sum Query 1D  
-leetcode.com/problems/range-sum-query-immutable  
+Problem A
+[Range Sum Query 1D](leetcode.com/problems/range-sum-query-immutable)
 
-Problem 2  
-Partial Equal Subset Sum  
-leetcode.com/problems/partition-equal-subset-sum
+Problem B  
+[Partial Equal Subset Sum](leetcode.com/problems/partition-equal-subset-sum)
 
-Problem 3  
-Continuous Subarray Sum  
-leetcode.com/problems/continuous-subarray-sum  
+Problem C  
+[Continuous Subarray Sum](leetcode.com/problems/continuous-subarray-sum) 
 
-Problem 4  
-Range Sum Query 2D  
-leetcode.com/problems/range-sum-query-2d-immutable
+Problem D  
+[Range Sum Query 2D](leetcode.com/problems/range-sum-query-2d-immutable)
 
-Bonus Problem: Matrix Land  
+Bonus Problem E: Matrix Land  
 (From an ongoing Hackerrank contest!)  
 Sign up for the contest here if necessary: https://www.hackerrank.com/contests/w35/  
 https://www.hackerrank.com/contests/w35/challenges/matrix-land 
